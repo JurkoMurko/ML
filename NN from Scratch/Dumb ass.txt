@@ -1,0 +1,2 @@
+you can load and save the state of the Neural Network with json files dumbass instead of txt files 
+dumbass
